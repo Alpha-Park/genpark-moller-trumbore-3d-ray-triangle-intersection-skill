@@ -1,0 +1,13 @@
+{
+  "name": "genpark-moller-trumbore-3d-ray-triangle-intersection-skill",
+  "version": "1.0.0",
+  "description": "High-performance Moller-Trumbore 3D ray-triangle intersection engine computing exact barycentric coordinates and hit distances in pure Python.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "ray-tracing",
+    "moller-trumbore",
+    "computational-geometry-3d",
+    "spatial-reasoning"
+  ]
+}
